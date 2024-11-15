@@ -1,0 +1,130 @@
+{
+  "Books": [
+    {
+      "Id": 1,
+      "BookTitle": "Where the Wild Things Are",
+      "Name": "Maurice Sendak",
+      "Genre": "Fantasy",
+      "PublishedYear": 1969,
+      "ISBNCode": 111,
+      "Ratings": [
+        5
+      ],
+      "BooksAveragerating": 5
+    },
+    {
+      "Id": 2,
+      "BookTitle": "Charlotte\u0027s Web",
+      "Name": "E. B. White",
+      "Genre": "Classic",
+      "PublishedYear": 1952,
+      "ISBNCode": 222,
+      "Ratings": [
+        4
+      ],
+      "BooksAveragerating": 4
+    },
+    {
+      "Id": 3,
+      "BookTitle": "Goodnight Moon",
+      "Name": "Margaret Wise Brown",
+      "Genre": "Bedtime Story",
+      "PublishedYear": 1947,
+      "ISBNCode": 333,
+      "Ratings": [
+        3
+      ],
+      "BooksAveragerating": 3
+    },
+    {
+      "Id": 4,
+      "BookTitle": "The Very Hungry Caterpillar",
+      "Name": "Eric Carle",
+      "Genre": "Educational",
+      "PublishedYear": 1969,
+      "ISBNCode": 444,
+      "Ratings": [
+        2
+      ],
+      "BooksAveragerating": 2
+    },
+    {
+      "Id": 5,
+      "BookTitle": "Hoot Owl, Master of Disguise",
+      "Name": "Sean Taylor",
+      "Genre": "Bedtime Story",
+      "PublishedYear": 2021,
+      "ISBNCode": 555,
+      "Ratings": [
+        3
+      ],
+      "BooksAveragerating": 3
+    },
+    {
+      "Id": 6,
+      "BookTitle": "pax",
+      "Name": "sara",
+      "Genre": "classic",
+      "PublishedYear": 2020,
+      "ISBNCode": 1234,
+      "Ratings": [],
+      "BooksAveragerating": 0
+    },
+    {
+      "Id": 7,
+      "BookTitle": "care",
+      "Name": "soso",
+      "Genre": "Drama",
+      "PublishedYear": 2024,
+      "ISBNCode": 12345673,
+      "Ratings": [
+        3
+      ],
+      "BooksAveragerating": 3
+    }
+  ],
+  "Authors": [
+    {
+      "Id": 1,
+      "Name": "Maurice Sendak",
+      "AuthorsCountry": "United States",
+      "booksIsWritten": []
+    },
+    {
+      "Id": 2,
+      "Name": "E. B. White",
+      "AuthorsCountry": "United States",
+      "booksIsWritten": []
+    },
+    {
+      "Id": 3,
+      "Name": "Margaret Wise Brown",
+      "AuthorsCountry": "United States",
+      "booksIsWritten": []
+    },
+    {
+      "Id": 4,
+      "Name": "Eric Carle",
+      "AuthorsCountry": "United States",
+      "booksIsWritten": []
+    },
+    {
+      "Id": 5,
+      "Name": "Sean Taylor",
+      "AuthorsCountry": "United States",
+      "booksIsWritten": []
+    },
+    {
+      "Id": 6,
+      "Name": "sara",
+      "AuthorsCountry": "USA",
+      "booksIsWritten": []
+    },
+    {
+      "Id": 7,
+      "Name": "soso",
+      "AuthorsCountry": "sisi",
+      "booksIsWritten": []
+    }
+  ]
+}
